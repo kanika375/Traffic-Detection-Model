@@ -1,6 +1,6 @@
 --------------------YOLOv8 Vehicle Detection and Speed Tracking--------------------------------
 
-Overview
+Overview:
 This project uses YOLOv8 for real-time object detection combined with the Deep SORT tracking algorithm to detect and track vehicles (such as cars, trucks, buses, and bicycles) in a video. It counts the number of vehicles passing a predefined line and calculates their speeds.
 
 Features
